@@ -1,0 +1,15 @@
+* postgres user
+username - postgres
+password - root
+db - empldb
+* Django
+admin
+root
+admin@testeml.in
+
+
+Added Users through admin URL
+test1 test1
+dummy dummy
+
+
